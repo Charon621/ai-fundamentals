@@ -1,0 +1,6 @@
+{
+  "causal_upper_triangle_zero": true,
+  "rows_sum_to_one": true,
+  "pronoun_top1_key": "小猫",
+  "pronoun_weight_on_nouns": 0.47014157019747516
+}
