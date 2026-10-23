@@ -1,0 +1,12 @@
+{
+  "xor_solved": true,
+  "xor_final_loss": 0.00022291186145268274,
+  "ring_acc": 1.0,
+  "ring_final_loss": 0.00044755260568242884,
+  "ring_arch": [
+    2,
+    16,
+    16,
+    2
+  ]
+}
