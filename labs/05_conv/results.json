@@ -1,0 +1,16 @@
+{
+  "input_shape": [
+    32,
+    32
+  ],
+  "conv_output_shape": [
+    30,
+    30
+  ],
+  "pooled_shape": [
+    15,
+    15
+  ],
+  "max_abs_response": 1.8929650161772158,
+  "flat_region_response_max": 0.0
+}
